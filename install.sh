@@ -137,6 +137,14 @@ REPLACE="
 /system/product/app/MiuiVideoGlobal
 /system/product/app/MiuiCompass
 /system/product/app/MiLinkService
+/system/product/app/MiGameService
+/system/product/app/MiGalleryLockscreen
+/system/product/app/MiConnectService
+/system/product/app/Joyose
+/system/product/app/Health
+/system/product/app/com.xiaomi.macro
+/system/product/app/Email
+/system/product/app/Calculator
 
 
 
