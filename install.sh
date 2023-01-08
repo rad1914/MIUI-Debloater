@@ -25,6 +25,11 @@ REPLACE="
 /system/app/FileExplorerGlobal
 /system/app/GooglePrintRecommendationService
 /system/app/Health
+/system/app/WapiCertManage
+/system/app/PrintSpooler
+/system/app/ModemTextBox
+/system/app/MiuiBluethoot
+/system/app/com.miui.qr
 /system/app/HybridAccessory
 /system/app/HybridPlatform
 /system/app/IdMipay
@@ -78,40 +83,6 @@ REPLACE="
 /system/priv-app/MiuiMusicGlobal
 /system/priv-app/MiuiScanner
 /system/priv-app/ONS
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-/system/priv-app/
-/system/priv-app/
-
-
 /system/priv-app/ProxyHandler
 /system/priv-app/SoundRecorder
 /system/priv-app/Stk1
@@ -145,7 +116,6 @@ REPLACE="
 /system/product/app/com.xiaomi.macro
 /system/product/app/Email
 /system/product/app/Calculator
-
 /system/product/app/GoogleTTS
 /system/product/app/YouTube
 /system/product/app/uimremoteclient
@@ -159,7 +129,6 @@ REPLACE="
 /system/product/priv-app/GoogleAssistant
 /system/product/priv-app/SetupWizard
 /system/product/priv-app/ims
-
 /system/product/priv-app/SoundRecorder
 /system/product/priv-app/SettingsIntelligence 
 /system/product/priv-app/PersonalAssistant
@@ -179,7 +148,6 @@ REPLACE="
 /system/product/priv-app/CarrierServices
 /system/product/priv-app/MiuiScanner
 /system/product/priv-app/Music
-
 /system/vendor/app/SoterService
 /data/app/android.autoinstalls.config.Xiaomi.begonia-qReVd01fGz2adoFNLXNDew==
 /data/app/com.miui.analytics-JEa_Zu6x4mDKRv-IsGDPAA==
@@ -191,7 +159,6 @@ REPLACE="
 /vendor/data/app/Videos
 /vendor/data/app/wps_lite
 /vendor/data/app/XMRemoteController
-
 "
 
 on_install() {
