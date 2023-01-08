@@ -146,10 +146,6 @@ REPLACE="
 /system/product/app/Email
 /system/product/app/Calculator
 
-
-
-
-
 /system/product/app/GoogleTTS
 /system/product/app/YouTube
 /system/product/app/uimremoteclient
@@ -166,34 +162,23 @@ REPLACE="
 
 /system/product/priv-app/SoundRecorder
 /system/product/priv-app/SettingsIntelligence 
-
 /system/product/priv-app/PersonalAssistant
 /system/product/priv-app/MiuiScanner
-
 /system/product/priv-app/MiuiGallery
 /system/product/priv-app/MiuiExtraPhoto
-
 /system/product/priv-app/MiuiAod
 /system/product/priv-app/Mirror
-
 /system/product/priv-app/MiMover
 /system/product/priv-app/MiShare
-
 /system/product/priv-app/MiService
 /system/product/priv-app/MiBrowserGlobal
-
 /system/product/priv-app/GoogleRestore
-/system/product/priv-app/
-
-
-
-
-
-
-
-
-
-
+/system/product/priv-app/CleanMaster
+/system/product/priv-app/AndroidAutoStub
+/system/product/priv-app/Calendar
+/system/product/priv-app/CarrierServices
+/system/product/priv-app/MiuiScanner
+/system/product/priv-app/Music
 
 /system/vendor/app/SoterService
 /data/app/android.autoinstalls.config.Xiaomi.begonia-qReVd01fGz2adoFNLXNDew==
@@ -210,7 +195,7 @@ REPLACE="
 "
 
 on_install() {
-  ui_print "   Extracting module files...   "
+  ui_print "   Extrayendo archivos del modulo...   "
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 }
 
