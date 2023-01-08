@@ -112,6 +112,7 @@ REPLACE="
 /system/product/app/MiGalleryLockscreen
 /system/product/app/MiConnectService
 /system/product/app/Joyose
+/system/product/app/Notes
 /system/product/app/Health
 /system/product/app/com.xiaomi.macro
 /system/product/app/Email
@@ -149,6 +150,14 @@ REPLACE="
 /system/product/priv-app/MiuiScanner
 /system/product/priv-app/Music
 /system/vendor/app/SoterService
+/system/
+/system/
+/system/
+/system/
+/system/
+/system/
+
+/system/system_ext/priv-app/QualcommVoiceActivation/QualcommVoiceActivation.apk
 /data/app/android.autoinstalls.config.Xiaomi.begonia-qReVd01fGz2adoFNLXNDew==
 /data/app/com.miui.analytics-JEa_Zu6x4mDKRv-IsGDPAA==
 /vendor/data/app/Drive
