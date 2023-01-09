@@ -154,7 +154,6 @@ REPLACE="
 /system/product/app/MiSound
 /system/product/app/FileExplorer
 /system/product/app/MiuiFrequentPhrase
-/system/system/app/ModemTestBox
 /system/system/app/CatchLog
 /system/system_ext/priv-app/QualcommVoiceActivation
 /data/app/android.autoinstalls.config.Xiaomi.begonia-qReVd01fGz2adoFNLXNDew==
