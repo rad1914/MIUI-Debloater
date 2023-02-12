@@ -65,6 +65,8 @@ REPLACE="
 /system/app/XiaomiSimActivateService
 /system/data/app/android.autoinstalls.config.Xiaomi.qssi-5NKLAXthPp3xU6ucgGl2Ag==
 /system/data/app/com.google.android.ims-zFXerSRh5hdqjerjDEJGyQ==
+/system/priv-app/TurboPrebuilt
+/system/product/priv-app/DevicePersonalizationPrebuiltPixel2022
 /system/priv-app/Browser
 /system/priv-app/Calendar
 /system/priv-app/CleanMaster
