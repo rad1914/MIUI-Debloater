@@ -183,6 +183,9 @@ REPLACE="
 on_install() {
   ui_print "   Extrayendo archivos del modulo...   "
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+  
+  # Set the prop
+  setprop persist.sys.mms.kill_fas_cached_idle true
 }
 
 set_permissions() {
